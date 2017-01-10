@@ -10,4 +10,7 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("dark");
   });
+  $("#paragraph").click(function() {
+    $("#paragraph").addClass("highlight");
+  });
 });

@@ -24,3 +24,13 @@ body.dark {
   background-color: black;
   color: white;
 }
+
+#paragraph {
+  cursor: pointer;
+}
+
+.highlight {
+  border-style: solid;
+  border-color: blue;
+  background-color: yellow;
+}
