@@ -1,0 +1,16 @@
+img.poster {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.ironic {
+  text-decoration: line-through;
+}
